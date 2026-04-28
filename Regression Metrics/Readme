@@ -1,0 +1,6 @@
+Task 2:
+Metrics Dashboard + GD from Scratch: Train a Linear Regression model and compute
+MAE, MSE, RMSE, R², and Adjusted R² manually using NumPy, then verify with sklearn
+metrics. Then implement Batch Gradient Descent from scratch to fit a regression line on
+a synthetic dataset. Plot the cost curve over iterations and animate how the regression
+line moves toward the best fit as training progresses.
