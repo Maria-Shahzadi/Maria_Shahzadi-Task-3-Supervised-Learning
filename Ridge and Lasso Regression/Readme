@@ -1,0 +1,7 @@
+Task 3:
+Regularisation Comparison Lab: Using a high-dimensional dataset (or one with
+multicollinearity), train Linear Regression, Ridge, and Lasso models across a range of
+alpha values. Plot how each coefficient changes as alpha increases (coefficient path
+plot). Compare MAE, RMSE, and R² for all three models. Use LassoCV to find the
+optimal alpha and identify which features were eliminated. Print a final summary table of
+results across all models and alpha values.
