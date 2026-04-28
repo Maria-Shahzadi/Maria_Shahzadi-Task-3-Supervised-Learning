@@ -1,0 +1,9 @@
+Final Project — End-to-End Regression Pipeline:
+Pick a real dataset from Kaggle (e.g. House Prices, Car Price Prediction, or Medical Insurance
+Cost). Build a complete regression pipeline from raw file to evaluated model: load and inspect
+→ EDA with key plots → clean all issues → preprocess all features → split into train/test → train
+Simple Linear, Multiple Linear, Polynomial, Ridge, and Lasso Regression models → evaluate
+each using MAE, RMSE, and R² → compare all models in a final summary table → save the
+best model using pickle and reload it to predict on 5 new unseen samples. Write a short
+README.txt summarising the dataset, key findings from EDA, every preprocessing decision
+made, and which model performed best and why
