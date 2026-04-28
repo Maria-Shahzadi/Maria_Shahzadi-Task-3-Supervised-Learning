@@ -1,0 +1,6 @@
+Task 1:
+Regression from Scratch + sklearn: Using the Boston Housing or California Housing
+dataset, implement Simple Linear Regression manually using the OLS formula (with
+NumPy), then again using sklearn.LinearRegression. Plot the regression line over
+the scatter plot. Extend to Multiple Linear Regression using all features. Print coefficients
+and compare manual vs sklearn results side by side
